@@ -21,7 +21,7 @@
         "allowArrayStart": true
       }
     ],
-    // "ignoreDuringBuilds": true,
+    "ignoreDuringBuilds": true,
     // add new line above return
     "newline-before-return": "error",
     // add new line below import
